@@ -7,44 +7,12 @@ body  {margin:0;}
   font-family: Arial, Helvetica, sans-serif;
 }
 
-
-
-.navbar {
-  overflow: hidden;
-  background-color: #002754;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 27px;
-}
-
-.navbar a:hover {
-  color: #F5AA1C;
-}
-
-/* slide show */
-.slideshow {
-  padding: 0px;
-  margin-top: 60px;
-  height: 490px; 
-}
-
 /* first writng bit*/
 .homepage{
-  background-color: #005493;
+  background-color:   #519085;
   max-width:2000px;
   margin-top:46px;
-  color: #F5AA1C;
+  color: #E9E0Ac ;
   font-size:large;
   
 }
@@ -58,8 +26,8 @@ Clear floats (clearfix hack) */
 
 
 .btn-group button {
-  background-color: #F5AA1C ; /* Green background */
-  border: 5px solid  #002754  ; /* Green border */
+  background-color: #F06C64 ; /* Green background */
+  border: 5px solid  #E9E0Ac  ; /* Green border */
   font-size:xx-large;
   width: 550px;
   height: 350px;
@@ -79,7 +47,7 @@ Clear floats (clearfix hack) */
 
 /* Add a background color on hover */
 .btn-group button:hover {
-  background-color: #c63527;
+  background-color: #db7f50;
 }
 
 
