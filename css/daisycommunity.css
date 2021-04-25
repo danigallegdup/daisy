@@ -22,7 +22,7 @@ a:hover {
 }
 
 #header {
-  background: #2b2d2c;
+  background: #519085;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -41,7 +41,7 @@ a:hover {
 }
 
 #header .logo a {
-  color: #5fcf80;
+  color: #e9e0ac;
 }
 
 #header .logo img {
@@ -85,5 +85,5 @@ a:hover {
 .nav-menu a:hover,
 .nav-menu .active > a,
 .nav-menu li:hover > a {
-  color: #5fcf80;
+  color: #e9e0ac;
 }
